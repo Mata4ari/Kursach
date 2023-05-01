@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="SCSS/Book.css"?>
+    <BOOK>
+    <head>
+      <htitle>Название</htitle>
+      <hdate>Дата вылета</hdate>
+      <htime>Время вылета</htime>
+      <hcost>Цена</hcost>
+    </head>
+      <tour>
+        <title>Египет</title>
+        <date>20.06.2023</date>
+        <time>05:00</time>
+        <cost>700$</cost>
+      </tour>
+      <tour>
+        <title>Танзания</title>
+        <date>27.06.2023</date>
+        <time>03:00</time>
+        <cost>830$</cost>
+      </tour>
+      <tour>
+        <title>Пхукет</title>
+        <date>11.07.2023</date>
+        <time>07:00</time>
+        <cost>850$</cost>
+      </tour>
+      <tour>
+        <title>Мальдивы</title>
+        <date>15.07.2023</date>
+        <time>05:00</time>
+        <cost>930$</cost>
+      </tour>
+      <tour>
+        <title>Шри-Ланка</title>
+        <date>15.07.2023</date>
+        <time>12:00</time>
+        <cost>1100$</cost>
+      </tour>
+      <tour>
+        <title>Филипины</title>
+        <date>20.07.2023</date>
+        <time>06:00</time>
+        <cost>1750$</cost>
+      </tour>
+    </BOOK>
