@@ -1,0 +1,20 @@
+BOOK{
+  display: table;
+  border-collapse: collapse;
+  margin: 10px;
+}
+tour, head{
+  display: table-row;
+}
+htitle, hdate, htime, hcost{
+  display: table-cell;
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+  background: yellow;
+}
+title, date, time, cost{
+  display: table-cell;
+  border: 1px solid black;
+  padding: 5px;
+}
